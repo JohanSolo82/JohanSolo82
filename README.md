@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<picture>
+  <img src="https://github.com/JohanSolo82/JohanSolo82/blob/main/DALL%C2%B7E%202024-10-30%2012.52.05%20-%20A%20young%20boy%2C%20viewed%20from%20behind%2C%20sits%20quietly%20by%20a%20serene%20woodland%20pond%2C%20surrounded%20by%20tall%20trees%20and%20gentle%2C%20natural%20light.%20From%20his%20ears%2C%20a%20surreal%20.webp" height="400px" width="400px">
+</picture>
 <!--
 **JohanSolo82/JohanSolo82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
